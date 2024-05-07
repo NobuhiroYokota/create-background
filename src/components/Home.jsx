@@ -14,6 +14,8 @@ export const Home = () => {
     <Header />
     <h1>必要な情報を入力してください</h1>
     <hr></hr>
+    <div className="form">
+
       <div className="item1">
         <label className="form-name">名前（漢字）</label>
         <input className="input-form" type="text" value={jpName} onChange={(e) =>setJpName(e.target.value)}/>
@@ -38,10 +40,10 @@ export const Home = () => {
         <label className="form-name">X:id</label>
         <input className="input-form" type="text" value={id} onChange={(e) =>setId(e.target.value)}/>
       </div>
-        <Link to={'./Output'}  className="button">
+      <Link   to={'./Output'}  className="button">
         Enter
       </Link>
-
+    </div>
     </>
   )
 }
