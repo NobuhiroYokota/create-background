@@ -14,7 +14,7 @@ export const Output = () => {
     const canvas = canvasRef.current;
     const context001 = canvas.getContext("2d")
 
-    context001.fillStyle="#ffffff"
+    context001.fillStyle="#F0F0F0"
     context001.fillRect(0,0,1920,1080)
 
     context001.fillStyle="#000000"

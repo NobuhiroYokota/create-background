@@ -9,7 +9,8 @@ canvas{
   height: 500px;
   margin: 20px auto;
   border-radius: 10px;
-  background-image: linear-gradient(90deg, rgba(85, 85, 85, 1), rgba(75, 75, 75, 1) 50%, rgba(0, 0, 0, 1));
+  background-color: #FFFFFF;
+  border: 2px solid #000;
 }
 
 #button{
@@ -17,7 +18,6 @@ canvas{
   margin: 0 auto;
   text-decoration: none;
   width: 120px;
-  /* font-weight: bold; */
   border: 2px solid #505050;
   color: #505050;
   border-radius: 100vh;
