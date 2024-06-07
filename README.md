@@ -1,7 +1,7 @@
 # create-background
 
-https://create-background.vercel.app/
-任意の情報を入力したのち、入力された情報を元に、バーチャル背景を作成するサービスです
+https://create-background.vercel.app/  
+任意の情報を入力したのち、入力された情報を元に、バーチャル背景を作成するサービスです  
 現在、大学内のコミュニティ内での使用に限定しているため、大学名は省略しています
 
 ## 使用技術
