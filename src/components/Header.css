@@ -5,11 +5,31 @@ body{
   width: 100%;
   height: 100px;
   background-color: #77B0AA;
+  box-sizing: border-box;
 }
 
 .header-title{
   color: #e3fef7;
   font-size: 64px;
   text-shadow: #9b8a8a 1px 0 10px;
-  margin: 0 0 0 10px;
+  margin: 0;
+}
+
+@media (max-width: 1024px) {
+  .header-title {
+    font-size: 48px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-title {
+    font-size: 48px;
+  }
+}
+
+@media (max-width: 320px) {
+  .header-title {
+    font-size: 32px;
+    margin: 0 0 0 5px;
+  }
 }
