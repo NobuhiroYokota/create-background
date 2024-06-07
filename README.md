@@ -7,3 +7,7 @@
 
 React
 Javascript(Canvas を用いて画像の描画を行いました)
+
+## Home 画面
+
+![HomeImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/ddd85b3e-f1a9-45f0-bebc-d7d7d664f592)
