@@ -19,4 +19,6 @@ Javascript(Canvas を用いて画像の描画を行いました)
 
 ## 生成された背景画像
 
+### 16:9
+
 ![templateImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/29df5e76-5318-4d03-b51b-557aa3c4d66a)
