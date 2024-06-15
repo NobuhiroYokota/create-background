@@ -6,8 +6,8 @@ https://create-background.vercel.app/
 
 ## 使用技術
 
-React
-Javascript(Canvas を用いて画像の描画を行いました)
+React  
+Javascript(Canvas を用いて画像の描画を行いました)  
 tailwindCSS
 
 ## Home 画面
