@@ -8,7 +8,7 @@ export const Output = () => {
   const canvasRef = useRef(null);
 
   useEffect(() => {
-    const getUrl = `http://api.qrserver.com/v1/create-qr-code/?data=https://twitter.com/${id}&size=100x100`;
+    const getUrl = `https://api.qrserver.com/v1/create-qr-code/?data=https://twitter.com/${id}&size=100x100`;
 
     fetch(getUrl)
     .then((res) => {
