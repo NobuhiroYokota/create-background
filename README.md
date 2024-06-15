@@ -8,17 +8,18 @@ https://create-background.vercel.app/
 
 React
 Javascript(Canvas を用いて画像の描画を行いました)
+tailwindCSS
 
 ## Home 画面
 
-![HomeImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/ddd85b3e-f1a9-45f0-bebc-d7d7d664f592)
+![HomeImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/c06eed5c-5257-4cd6-9e2e-6f596cafb0ec)
 
 ## 描画画面
 
-![CreateImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/2781567f-d41e-4a17-beb2-ce137c027ec8)
+![OutputImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/3a165567-92ae-4eb8-ba54-9fd998510d31)
 
 ## 生成された背景画像
 
 ### 16:9
 
-![templateImg](https://github.com/NobuhiroYokota/create-background/assets/162434159/29df5e76-5318-4d03-b51b-557aa3c4d66a)
+![template](https://github.com/NobuhiroYokota/create-background/assets/162434159/88a1ba52-fb6a-4922-ba5d-6bd515119c5e)
