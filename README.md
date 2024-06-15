@@ -22,4 +22,7 @@ tailwindCSS
 
 ### 16:9
 
+生成された画像の QR コードは QR CODE API を使用して、X の id から QR コードへ変換しています  
+QR コードを読み取ることで X へアクセスすることが可能です
+
 ![template](https://github.com/NobuhiroYokota/create-background/assets/162434159/88a1ba52-fb6a-4922-ba5d-6bd515119c5e)
