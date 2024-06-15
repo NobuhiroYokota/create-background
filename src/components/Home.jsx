@@ -6,7 +6,7 @@ import { useFormContext } from "./FormProvider";
 
 export const Home = () => {
 
-    const { jpName, setJpName, engName, setEngName, facultyName, setFacultyName, departmentName, setDepartmentName, graduationYear, setGradiationYear, id, setId } = useFormContext();
+  const { jpName, setJpName, engName, setEngName, facultyName, setFacultyName, departmentName, setDepartmentName, graduationYear, setGradiationYear, id, setId } = useFormContext();
 
 
   return (
@@ -40,7 +40,7 @@ export const Home = () => {
         <label className="form-name">X:id</label>
         <input className="input-form" type="text" value={id} onChange={(e) =>setId(e.target.value)}/>
       </div>
-      <Link   to={'./Output'}  className="button">
+      <Link to={'./Output'}  className="button">
         Enter
       </Link>
     </div>
